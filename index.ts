@@ -63,9 +63,3 @@ console.log(chalk.blueBright(convertedAmount))
 
 
 
-
-
-
-
-
-
